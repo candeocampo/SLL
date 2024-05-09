@@ -1,14 +1,15 @@
 # SLL
 
-__ALUMNA:__ **Candela Anahi Ocampo**
+__*ALUMNA:*__ *Candela Anahi Ocampo* 
 
-__CURSO:__ **Z2002**
+__*CURSO:*__ *Z2002* 
 
-__PROFESOR:__ **Eduardo Zuñiga**
+__*PROFESOR*:__ *Eduardo Zúñiga* 
 
-__AÑO 2024__
+__*AÑO 2024*__
 
-__COMPILADOR UTILIZADO EN EL TP0__
+
+__*COMPILADOR UTILIZADO EN EL TP0*__
 
 
 Candela@DESKTOP-SHGD0N4 MINGW64 ~
