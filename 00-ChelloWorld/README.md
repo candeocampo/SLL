@@ -1,9 +1,15 @@
 # SLL
 
 __ALUMNA:__ **Candela Anahi Ocampo**
+
 __CURSO:__ **Z002**
+
 __PROFESOR:__ **Eduardo Zuñiga**
+
 __AÑO 2024__
+
+__COMPILADOR UTILIZADO EN EL TP0__
+
 
 Candela@DESKTOP-SHGD0N4 MINGW64 ~
 $ gcc --version
