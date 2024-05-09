@@ -4,7 +4,7 @@ __*ALUMNA:*__ *Candela Anahi Ocampo*
 
 __*CURSO:*__ *Z2002* 
 
-__*PROFESOR*:__ *Eduardo Zuñiga* 
+__*PROFESOR*:__ *Eduardo Zúñiga* 
 
 __*AÑO 2024*__
 
