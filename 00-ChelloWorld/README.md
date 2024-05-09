@@ -2,7 +2,7 @@
 
 __ALUMNA:__ **Candela Anahi Ocampo**
 
-__CURSO:__ **Z002**
+__CURSO:__ **Z2002**
 
 __PROFESOR:__ **Eduardo Zuñiga**
 
