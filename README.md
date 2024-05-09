@@ -1,10 +1,10 @@
 # SLL
 
-__*ALUMNA:*__ *Candela Anahi Ocampo* 
+__*ALUMNA:*__*Candela Anahi Ocampo* 
 
-__*CURSO:*__ *Z002* 
+__*CURSO:*__*Z002* 
 
-__*PROFESOR*:__  **Eduardo Zuñiga* 
+__*PROFESOR*:__*Eduardo Zuñiga* 
 
 __*AÑO 2024*__
 
